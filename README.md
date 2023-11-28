@@ -150,7 +150,7 @@ export class FactoryService {
 
 Module Injectors:
 
-image.png
+![image](https://github.com/an-helper/DI/assets/152205791/6f334dcb-9832-4a21-b2ae-38d1e5709d21)
 
 @NgModule "сильнее" @Injectable, т.е. он может переопределить реализацию.
 Например:
